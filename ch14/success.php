@@ -1,18 +1,19 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Challenge 15</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <title>Challenge 14</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color: aquamarine">
+<body style="background-color: lightpink">
 <div style="text-align: center;">
     <table class="main-table">
-        <TBODY>
+        <tbody>
         <tr>
             <td>
-                <p><img src="url_interpretation_logo.png" width="100"></p>
-        <TR>
-            <TD class="main-content">
+                <p><img src="java_logo.png" width="100" alt="logo"></p>
+            </td>
+        <tr>
+            <td class="main-content">
                 <div style="text-align: center;">
                     <h1 style="margin-top: 10px">
                         <b>SUCCESS</b>

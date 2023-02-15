@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<challenge>
+    <title>A Java server</title>
+    <author>
+	Bartosz Nieroda, Tomasz Wojakowski, Krzysztof Pala
+    </author>
+    <category>web</category>
+    <description>
+Oh boy, this one may be tough. Just look at their technology stack, there does not seem to have any owasp
+vulnerabilities... You have prepared some executable code (and you have it ready at hackingsite.pl/myscript) which 
+could send you all the data from this website, however you'd have to force the application to execute it somehow...
+</description>
+    <level>
+	2
+    </level>
+	<duration>
+	20
+	</duration>
+</challenge>

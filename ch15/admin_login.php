@@ -2,7 +2,7 @@
 switch ($_SERVER['REQUEST_METHOD']) {
     case "POST":
         if ($_POST["passwd"] == "admin" && $_POST["login"] == "admin") {
-            readfile("admin_page.html");
+            readfile("admin_page.php");
         } else {
             header("HTTP/1.0 401 Unauthorized");
         }

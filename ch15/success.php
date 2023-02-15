@@ -1,27 +1,26 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Challenge 11</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <title>Challenge 15</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color: darkcyan">
+<body style="background-color: aquamarine">
 <div style="text-align: center;">
     <table class="main-table">
-        <tbody>
+        <TBODY>
         <tr>
             <td>
-                <p><img src="logo.png" width="100" alt="logo"></p>
-            </td>
-        <tr>
-            <td class="main-content">
+                <p><img src="url_interpretation_logo.png" width="100"></p>
+        <TR>
+            <TD class="main-content">
                 <div style="text-align: center;">
                     <h1 style="margin-top: 10px">
                         <b>SUCCESS</b>
                     </h1>
                 </div>
-            </td>
-        </tr>
-        </tbody>
+            </TD>
+        </TR>
+        </TBODY>
     </TABLE>
 </div>
 </BODY>

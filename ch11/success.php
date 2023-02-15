@@ -1,10 +1,15 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Challenge 12</title>
-    <link rel="stylesheet" href="../assets/style.css">
+<?php
+include_once dirname(__FILE__).'/../../init.php';
+require_once(HACKADEMIC_PATH."pages/challenge_monitor.php");
+?>
+    
+    <title>Challenge 11</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color: darkgoldenrod">
+<body style="background-color: darkcyan">
 <div style="text-align: center;">
     <table class="main-table">
         <tbody>
@@ -22,7 +27,7 @@
             </td>
         </tr>
         </tbody>
-    </table>
+    </TABLE>
 </div>
-</body>
-</html>
+</BODY>
+</HTML>

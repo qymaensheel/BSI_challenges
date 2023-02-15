@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<challenge>
+    <title>Hidden treasure</title>
+    <author>
+	Bartosz Nieroda, Tomasz Wojakowski, Krzysztof Pala
+    </author>
+    <category>web</category>
+    <description>
+"Three things cannot be long hidden: the sun, the moon, and the truth password to this website."
+  ~Buddha
+</description>
+    <level>
+	2
+    </level>
+	<duration>
+	20
+	</duration>
+</challenge>

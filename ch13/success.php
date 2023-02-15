@@ -1,16 +1,16 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Challenge 14</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <title>Challenge 13</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color: lightpink">
+<body style="background-color: burlywood">
 <div style="text-align: center;">
     <table class="main-table">
         <tbody>
         <tr>
             <td>
-                <p><img src="java_logo.png" width="100" alt="logo"></p>
+                <p><img src="js_logo.png" width="100" alt="logo"></p>
             </td>
         <tr>
             <td class="main-content">
@@ -19,10 +19,10 @@
                         <b>SUCCESS</b>
                     </h1>
                 </div>
-            </TD>
-        </TR>
-        </TBODY>
-    </TABLE>
+            </td>
+        </tr>
+        </tbody>
+    </table>
 </div>
-</BODY>
-</HTML>
+</body>
+</html>

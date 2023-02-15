@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Challenge 15</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color: aquamarine">
 <div style="text-align: center;">
@@ -10,7 +10,7 @@
         <tbody>
         <tr>
         <td style="text-align: left">
-            <button><a href="index.html">
+            <button><a href="index.php">
                 logout</a>
             </button>
         </td></tr>

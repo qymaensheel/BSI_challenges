@@ -10,7 +10,7 @@ Simulated backend of this application creates SQL query like this:
 
 So if you pass any id, but add `OR` clause with true value it may go through. Remember to surround SQL functions with 
 quotes.
-Example: `dasdasdasdasdasdasdasdas 'OR' 12 '==' 12`.
+Example: `dadadad'OR'12'=='12`.
 
 #### Challenge 13 - unprotected JS file
 Password is hidden in java script file included to `index.html`. If you go there, you'll find an unused constant 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<challenge>
+    <title>HTTP mistake</title>
+    <author>
+	Bartosz Nieroda, Tomasz Wojakowski, Krzysztof Pala
+    </author>
+    <category>web</category>
+    <description>
+	This is an easy challenge - password is already provided by your colleague - the author of this site. However, you know 
+that he tends to do small mistakes on almost everything he does... Try to log in to his service.
+    </description>
+    <level>
+	2
+    </level>
+	<duration>
+	20
+	</duration>
+</challenge>

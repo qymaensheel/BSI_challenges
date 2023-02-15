@@ -3,7 +3,7 @@
  {
     case "POST":
         if ($_POST["passwd"] == "gonzalez38"){
-            readfile("success.html");
+            readfile("success.php");
         } else {
             header("HTTP/1.0 401 Unauthorized");   
         }

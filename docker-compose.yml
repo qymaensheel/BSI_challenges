@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+
+  php-5.4:
+    container_name: php-5.4
+    image: orbitmedia/php:5.4-apache
+    ports:
+      - "81:80"

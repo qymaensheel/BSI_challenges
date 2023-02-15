@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<challenge>
+    <title>SQL Injection</title>
+    <author>
+	Bartosz Nieroda, Tomasz Wojakowski, Krzysztof Pala
+    </author>
+    <category>web</category>
+    <description>
+In this challenge you want to log to the website. You don't know much about this website, however the background
+kinda looks like they may be pasting raw input values into their database queries...
+</description>
+    <level>
+	2
+    </level>
+	<duration>
+	20
+	</duration>
+</challenge>

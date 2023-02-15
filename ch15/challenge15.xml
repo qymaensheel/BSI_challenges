@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<challenge>
+    <title>URL Interpretation</title>
+    <author>
+	Bartosz Nieroda, Tomasz Wojakowski, Krzysztof Pala
+    </author>
+    <category>web</category>
+    <description>
+    This site is a big one. It needs proper management. In order to manage this application there must be some special 
+    panel designed just for this. Try to find it.
+    </description>
+    <level>
+	2
+    </level>
+	<duration>
+	20
+	</duration>
+</challenge>

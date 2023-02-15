@@ -1,16 +1,20 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Challenge 13</title>
-    <link rel="stylesheet" href="../assets/style.css">
+<?php
+    include_once dirname(__FILE__).'/../../init.php';
+    require_once(HACKADEMIC_PATH."pages/challenge_monitor.php");
+?>
+    <title>Challenge 12</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body style="background-color: burlywood">
+<body style="background-color: darkgoldenrod">
 <div style="text-align: center;">
     <table class="main-table">
         <tbody>
         <tr>
             <td>
-                <p><img src="js_logo.png" width="100" alt="logo"></p>
+                <p><img src="logo.png" width="100" alt="logo"></p>
             </td>
         <tr>
             <td class="main-content">

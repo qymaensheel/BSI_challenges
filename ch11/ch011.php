@@ -3,7 +3,7 @@
  {
     case "POST":
         if ($_POST["passwd"] == "yes"){
-            readfile("success.html");
+            readfile("success.php");
         }
         break;
     case "GET":

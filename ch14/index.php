@@ -1,8 +1,13 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+<?php
+    include_once dirname(__FILE__).'/../../init.php';
+    require_once(HACKADEMIC_PATH."pages/challenge_monitor.php"); 
+?>
+ 
     <title>Challenge 14</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color: lightpink">
 <div style="text-align: center;">

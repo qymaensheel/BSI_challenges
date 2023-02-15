@@ -6,7 +6,7 @@
         $user2 = $_POST["login"] == "jumbo1" && $_POST["passwd"] == "12345678";
         $user3 = $_POST["login"] == "big_poppa" && $_POST["passwd"] == "zaq12wsx";
         if ( $user1 || $user2 || $user3){
-            readfile("success.html");
+            readfile("success.php");
         } else {
             header("HTTP/1.0 401 Unauthorized");   
         }

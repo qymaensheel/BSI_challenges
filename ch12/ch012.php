@@ -7,7 +7,7 @@
 
                 if (preg_match($regex, $passwd)) {
                     header("HTTP/1.0 200 OK");
-                    readfile("success.html");
+                    readfile("success.php");
                 } else {
                     header("HTTP/1.0 401 Unauthorized");
                 }

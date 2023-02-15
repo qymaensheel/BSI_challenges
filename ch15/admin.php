@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Challenge 15</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color: aquamarine">
 <div style="text-align: center;">

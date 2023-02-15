@@ -1,8 +1,12 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 <head>
+<?php
+    include_once dirname(__FILE__).'/../../init.php';
+    require_once(HACKADEMIC_PATH."pages/challenge_monitor.php"); ?>
+ 
     <title>Challenge 15</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color: aquamarine">
 <div style="text-align: center;">
@@ -10,7 +14,7 @@
         <tbody>
         <tr>
             <td>
-                <button hidden><a href="admin.html" >
+                <button hidden><a href="admin.php" >
                     admin panel</a>
                 </button>
             </td>
