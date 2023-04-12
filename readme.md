@@ -3,9 +3,9 @@
 Those challenges are a result of a Computer Security classes taken at University of Science and Technology in Kraków, 
 Poland. Their aim is to point out some of the most popular web application vulnerabilities and to test participants' 
 knowledge about computer security and web application. Authors of the project:
-- **Bartosz Nieroda**
-- **Krzysztof Pala**
-- **Tomasz Wojakowski**
+- [Tomasz Wojakowski](https://github.com/Wojaqqq)
+- [Bartosz Nieroda](https://github.com/qymaensheel)
+- [Krzysztof Pala](https://github.com/pallovsky)
 
 The numeration of those challenges starts at 11, because they're meant to be a continuation of challenges presented
 on KIS AGH [Hackademic](https://vega.kis.agh.edu.pl/hackademic/) project.
